@@ -7,18 +7,29 @@
 - [Youtube: Xét nghiệm gen hay xem bói 4.0?](https://www.youtube.com/watch?v=Qac1Bd8V8_I)
 
 [**00.1 Ubuntu and basic Linux command part 1 [Huy] - 02/11/2025**](https://docs.google.com/presentation/d/16y2ug90YrScBL0rl6lnSjzMzj4LMc92Q8KtdIIG0GM0/edit?usp=sharing)
-- [YOUTUBE](https://youtu.be/1O28D08-Hbs?si=ip4xlJ0s7I34VjTG)
+- [YOUTUBE](https://youtu.be/1O28D08-Hbs?si=ip4xlJ0s7I34VjTG)[HOMEWORK]()
 
 [**01.0 Gene Expression and Chromatin 1 [Loi] - 09/11/2025**](Lecture_01/)
 - [PDF](Lecture_01/Lecture01_2025Nov09.pdf)
 - [Youtube: Xét nghiệm gen hay xem bói 4.0?](https://www.youtube.com/watch?v=Qac1Bd8V8_I)
 
 [**01.1 Ubuntu and basic Linux command part 2 [Huy] - 09/11/2025**](https://docs.google.com/presentation/d/16y2ug90YrScBL0rl6lnSjzMzj4LMc92Q8KtdIIG0GM0/edit?usp=sharing)
-
+- [PDF]() [HOMEWORK]() [MATERIAL]
+- [PPTX]()
 [**02.0 Gene Expression and Chromatin 2 [Loi] - 16/11/2025**](Lecture_02/)
 - [PDF](Lecture_02/Lecture01_2025Nov09.pdf)
-
-[**02.1 Bash Script [Huy] - 16/11/2025**](https://docs.google.com/presentation/d/16y2ug90YrScBL0rl6lnSjzMzj4LMc92Q8KtdIIG0GM0/edit?usp=sharing)
+[**02.1 Bash Script 1 [Huy] - 16/11/2025**]()
+- [PDF]() [HOMEWORK]() [MATERIAL]
+- [PPTX]()
+[**03.1 Bash Script 2 [Huy] - 23/11/2025**]()
+- [PDF]() [HOMEWORK]() [MATERIAL]
+- [PPTX]()
+[**04.1 Awk and practice part 1 [Huy] - 30/11/2025**]()
+- [PDF]() [HOMEWORK]() [MATERIAL]
+- [PPTX]()
+[**05.1 Awk and practice part 2  [Huy] - 7/12/2025**]()
+- [PDF]() [HOMEWORK]() [MATERIAL]
+- [PPTX]()
 
 ## Module II: Epigenomics
 
