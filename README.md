@@ -21,11 +21,11 @@
 [**02.0 Gene Expression and Chromatin 2 [Loi] - 16/11/2025**](Lecture_02/)
 - [PDF](Lecture_02/Lecture01_2025Nov09.pdf)
   
-[**02.1 Bash Script 1 [Huy] - 16/11/2025**]()
+[**02.1 Bash Script 1 [Huy] - 16/11/2025**](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
 - [PPTX]
   
-[**03.1 Bash Script 2 [Huy] - 23/11/2025**]
+[**03.1 Bash Script 2 [Huy] - 23/11/2025**](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
 - [PPTX]
   
