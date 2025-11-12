@@ -13,10 +13,11 @@
 [**01.0 Gene Expression and Chromatin 1 [Loi] - 09/11/2025**](Lecture_01/)
 - [PDF](Lecture_01/Lecture01_2025Nov09.pdf)
 - [Youtube: Xét nghiệm gen hay xem bói 4.0?](https://www.youtube.com/watch?v=Qac1Bd8V8_I)
+- [YOUTUBE](https://youtu.be/DzmlSBGhtaE?si=JE5ABWt2xhJLtAKV)
 
 [**01.1 Ubuntu and basic Linux command part 2 [Huy] - 09/11/2025**](https://docs.google.com/presentation/d/16y2ug90YrScBL0rl6lnSjzMzj4LMc92Q8KtdIIG0GM0/edit?usp=sharing)
 - [PDF](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pdf)  &emsp; [HOMEWORK](Lecture_00/Homework_Basic_Linux_commands_part2.pptx) 
-- [PPTX](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pptx)
+- [PPTX](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pptx) &emsp; [YOUTUBE](https://youtu.be/nXvzy9DUcKQ?si=KBC_wUbshwy-Q4Qz)
   
 [**02.0 Gene Expression and Chromatin 2 [Loi] - 16/11/2025**](Lecture_02/)
 - [PDF](Lecture_02/Lecture01_2025Nov09.pdf)
