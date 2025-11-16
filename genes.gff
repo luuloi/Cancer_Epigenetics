@@ -1,0 +1,10 @@
+scaffold_1  Prodigal  gene  100   500   . + . ID=gene001
+scaffold_1  Prodigal  CDS   100   500   . + 0 ID=cds001;Parent=gene001
+scaffold_1  Prodigal  gene  650   900   . - . ID=gene002
+scaffold_1  Prodigal  CDS   650   900   . - 0 ID=cds002;Parent=gene002
+scaffold_2  AUGUSTUS  gene  200   800   . + . ID=gene003
+scaffold_2  AUGUSTUS  mRNA  200   800   . + . ID=mrna003;Parent=gene003
+scaffold_2  AUGUSTUS  CDS   200   350   . + 0 ID=cds003.1;Parent=mrna003
+scaffold_2  AUGUSTUS  CDS   450   800   . + 0 ID=cds003.2;Parent=mrna003
+scaffold_2  Prodigal  gene  1000  1200  . + . ID=gene004;Note=hypothetical protein
+scaffold_2  Prodigal  CDS   1000  1200  . + 0 ID=cds004;Parent=gene004
