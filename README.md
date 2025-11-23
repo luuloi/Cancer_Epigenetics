@@ -25,14 +25,23 @@
 [**02.1 Bash Script 1 [Huy] - 16/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL](Lecture_02/)
 - [PPTX]
-  
+
+[**03.0 The Basal Transcriptional Machinery [Loi] - 23/11/2025**](Lecture_03/)
+- [PDF](Lecture_03/Lecture02_2025Nov23.pdf)
+
 [**03.1 Bash Script 2 [Huy] - 23/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
 - [PPTX]
-  
+
+[**04.0 Transcription Factors and Signal Transduction [Loi] - 30/11/2025**](Lecture_04/)
+- [PDF](Lecture_04/Lecture04_2025Nov30.pdf)
+
 [**04.1 Awk and practice part 1 [Huy] - 30/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
 - [PPTX]
+
+[**05.0 A Key Transcription Factor Family: Nuclear Receptors [Loi] - 07/12/2025**](Lecture_05/)
+- [PDF](Lecture_05/Lecture05_2025Dec07.pdf)
   
 [**05.1 Awk and practice part 2  [Huy] - 7/12/2025**]
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
