@@ -30,7 +30,7 @@
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
 - [PPTX]
   
-[**04.1 Awk and practice part 1 [Huy] - 30/11/2025**] (https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
+[**04.1 Awk and practice part 1 [Huy] - 30/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
 - [PDF] &emsp; [HOMEWORK] &emsp; [MATERIAL]
 - [PPTX]
   
