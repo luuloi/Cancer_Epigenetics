@@ -1,5 +1,5 @@
 # Cancer Epigenetics
-### Starting from 8PM Every Sunday (02/11/2025 - 24/05/2026)
+### Starting the lecture at 8PM sharp on every Sunday (02/11/2025 - 24/05/2026)
 
 ## Module I: Fundamentals of Epigenetics
 [**00.0 Introduction to Epigenetics [Loi] - 02/11/2025**](Lecture_00/)
