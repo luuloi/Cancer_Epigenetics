@@ -40,7 +40,13 @@
 [**05.0 A Key Transcription Factor Family: Nuclear Receptors [Loi] - 07/12/2025**](Lecture_05/)
 - [PDF](Lecture_05/Lecture05_2025Dec07.pdf)
   
-[**05.1 Awk and practice part 2  [Huy] - 7/12/2025**]
+[**05.1 Awk and practice part 2  [Huy] - 7/12/2025**](Lecture_05/)
+- [PDF] &emsp; [HOMEWORK] 
+
+[**06.0 Oral Midterm Exam I for Module I: Fundamentals of Epigenetics [Loi] - 14/12/2025**](Lecture_06/)
+- [PDF](Lecture_06/Lecture06_midterm_exam_1_2025Dec14.pdf)
+  
+[**06.1 Introduction to R  [Huy] - 14/12/2025**]
 - [PDF] &emsp; [HOMEWORK] 
 
 ## Module II: Epigenomics
