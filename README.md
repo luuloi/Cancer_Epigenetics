@@ -20,34 +20,34 @@
 - [PPTX](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pptx) &emsp; [YOUTUBE](https://youtu.be/nXvzy9DUcKQ?si=KBC_wUbshwy-Q4Qz)
   
 [**02.0 Gene Expression and Chromatin 2 [Loi] - 16/11/2025**](Lecture_02/)
-- [PDF](Lecture_02/Lecture01_2025Nov16.pdf)
+- [PDF](Lecture_02/Lecture01_2025Nov16.pdf) &emsp; [YOUTUBE](https://youtu.be/ZbMkyxusyG4?si=8ibSmhC3iAw1w8JL)
   
 [**02.1 Bash Script 1 [Huy] - 16/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
-- [PDF](Lecture_02/bashscript1.pdf) &emsp; [HOMEWORK](Lecture_02/homework1.pdf) &emsp; [MATERIAL](Lecture_02/)
+- [PDF](Lecture_02/bashscript1.pdf) &emsp; [HOMEWORK](Lecture_02/homework1.pdf) &emsp; [MATERIAL](Lecture_02/) &emsp; [YOUTUBE](https://youtu.be/7tyOR0mEjnU?si=FCbZhoAcCyXXefai)
 
 [**03.0 The Basal Transcriptional Machinery [Loi] - 23/11/2025**](Lecture_03/)
-- [PDF](Lecture_03/Lecture02_2025Nov23.pdf)
+- [PDF](Lecture_03/Lecture02_2025Nov23.pdf) &emsp; [YOUTUBE](https://youtu.be/TVBelbrF26s?si=4PsOTCLaYGdcEh0c)
 
 [**03.1 Bash Script 2 [Huy] - 23/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
-- [PDF](Lecture_03/bashscript2.pdf) &emsp; [HOMEWORK](Lecture_03/homework2.pdf)
+- [PDF](Lecture_03/bashscript2.pdf) &emsp; [HOMEWORK](Lecture_03/homework2.pdf) &emsp; [YOUTUBE](https://youtu.be/rJI14Tz7vF0?si=MTXDyi7z3hxvOtI7)
 
 [**04.0 Transcription Factors and Signal Transduction [Loi] - 30/11/2025**](Lecture_04/)
-- [PDF](Lecture_04/Lecture04_2025Nov30.pdf)
+- [PDF](Lecture_04/Lecture04_2025Nov30.pdf) &emsp; [YOUTUBE](https://youtu.be/yBCexRgtu28?si=TNXY9DiHE1H7mMMg)
 
 [**04.1 Awk and practice part 1 [Huy] - 30/11/2025**](https://docs.google.com/presentation/d/1tty2MV_Nwd2bF_6sNlFlU0AFmBMZ3epKOUAkatpjCuQ/edit?usp=sharing)
-- [PDF](Lecture_04/bashscript3.pdf) &emsp; [HOMEWORK](Lecture_04/homework3.pdf)
+- [PDF](Lecture_04/bashscript3.pdf) &emsp; [HOMEWORK](Lecture_04/homework3.pdf) &emsp; [YOUTUBE](https://youtu.be/Zi0xzcTuK1w?si=ZVyO5MH7CwCJtpkY)
 
 [**05.0 A Key Transcription Factor Family: Nuclear Receptors [Loi] - 07/12/2025**](Lecture_05/)
-- [PDF](Lecture_05/Lecture05_2025Dec07.pdf)
+- [PDF](Lecture_05/Lecture05_2025Dec07.pdf) &emsp; [YOUTUBE](https://youtu.be/9mNnM9LIPWQ?si=pjlvXb2gM5QY53y9)
   
 [**05.1 Awk and practice part 2  [Huy] - 7/12/2025**](Lecture_05/)
-- [PDF] &emsp; [HOMEWORK] 
+- [PDF] &emsp; [HOMEWORK] &emsp; [YOUTUBE](https://youtu.be/YlNCQES69hg?si=ZAHIfaFQXqwR0Xwo)
 
 [**06.0 Oral Midterm Exam I for Module I: Fundamentals of Epigenetics [Loi] - 14/12/2025**](Lecture_06/)
 - [PDF](Lecture_06/Lecture06_midterm_exam_1_2025Dec14.pdf)
   
 [**06.1 Introduction to R  [Huy] - 14/12/2025**]
-- [PDF] &emsp; [HOMEWORK] 
+- [PDF] &emsp; [HOMEWORK]
 
 ## Module II: Epigenomics
 
