@@ -58,7 +58,7 @@
 [**09 Introduction to R 3 [Phuc] - 03/01/2026**](Lecture_09/)
 - [PDF] &emsp; [HOMEWORK]
 
-[**10.0 Oral Midterm Exam I Part 1 for Module I: Fundamentals of Epigenetics [Loi] - 10/01/2026**](Lecture_10/)
+[**10.0 Oral Midterm Exam I Part 2 for Module I: Fundamentals of Epigenetics [Loi] - 10/01/2026**](Lecture_10/)
 - [PDF](Lecture_10/Lecture06_midterm_exam_1_2025Dec14.pdf)
 
 [**10.1 Introduction to R 4 [Phuc] - 10/01/2026**](Lecture_10/)
