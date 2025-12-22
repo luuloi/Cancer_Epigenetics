@@ -47,10 +47,10 @@
 - [PDF](Lecture_06/Lecture06_midterm_exam_1_2025Dec14.pdf)
   
 [**06.1 Introduction to R 0 [Phuc] - 14/12/2025**](Lecture_06/)
-- [PDF] &emsp; [HOMEWORK]
+- [PDF](Lecture_06/Lecture_06_Introduction_to_R.pdf) &emsp; [HOMEWORK](Lecture_06/Lecture_06_Homework.pdf)
 
 [**07 Introduction to R 1 [Phuc] - 21/12/2025**](Lecture_07/)
-- [PDF] &emsp; [HOMEWORK]
+- [PDF](Lecture_07/Lecture_07_R_Data_structure.pdf) &emsp; [HOMEWORK](Lecture_07/Lecture_07_Homework.pdf)
 
 [**08 Introduction to R 2 [Phuc] - 28/12/2025**](Lecture_08/)
 - [PDF] &emsp; [HOMEWORK]
