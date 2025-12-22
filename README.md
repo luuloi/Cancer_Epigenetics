@@ -43,11 +43,27 @@
 [**05.1 Awk and practice part 2  [Huy] - 7/12/2025**](Lecture_05/)
 - [PDF] &emsp; [HOMEWORK] &emsp; [YOUTUBE](https://youtu.be/YlNCQES69hg?si=ZAHIfaFQXqwR0Xwo)
 
-[**06.0 Oral Midterm Exam I for Module I: Fundamentals of Epigenetics [Loi] - 14/12/2025**](Lecture_06/)
+[**06.0 Oral Midterm Exam I Part 1 for Module I: Fundamentals of Epigenetics [Loi] - 14/12/2025**](Lecture_06/)
 - [PDF](Lecture_06/Lecture06_midterm_exam_1_2025Dec14.pdf)
   
-[**06.1 Introduction to R  [Huy] - 14/12/2025**]
+[**06.1 Introduction to R 0 [Phuc] - 14/12/2025**]
 - [PDF] &emsp; [HOMEWORK]
+
+[**07 Introduction to R 1 [Phuc] - 21/12/2025**]
+- [PDF] &emsp; [HOMEWORK]
+
+[**08 Introduction to R 2 [Phuc] - 28/12/2025**]
+- [PDF] &emsp; [HOMEWORK]
+
+[**09 Introduction to R 3 [Phuc] - 03/01/2026**]
+- [PDF] &emsp; [HOMEWORK]
+
+[**10.0 Oral Midterm Exam I Part 1 for Module I: Fundamentals of Epigenetics [Loi] - 10/01/2026**]
+- [PDF](Lecture_06/Lecture06_midterm_exam_1_2025Dec14.pdf)
+
+[**10.1 Introduction to R 4 [Phuc] - 10/01/2026**]
+- [PDF] &emsp; [HOMEWORK]
+
 
 ## Module II: Epigenomics
 
