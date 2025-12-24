@@ -50,7 +50,7 @@
 - [PDF](Lecture_06/Lecture_06_Introduction_to_R.pdf) &emsp; [HOMEWORK](Lecture_06/Lecture_06_Homework.pdf)
 
 [**07 Introduction to R 1 [Phuc] - 21/12/2025**](Lecture_07/)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UKARP5im6-lIDUl2risx8qfTIYFwKnz5#scrollTo=QKe-vv2Kcrzr)
 - [PDF](Lecture_07/Lecture_07_R_Data_structure.pdf) &emsp; [HOMEWORK](Lecture_07/Lecture_07_Homework.pdf)
 
 [**08 Introduction to R 2 [Phuc] - 28/12/2025**](Lecture_08/)
