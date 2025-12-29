@@ -54,8 +54,8 @@
 - [PDF](Lecture_07/Lecture_07_R_Data_structure.pdf) &emsp; [HOMEWORK](Lecture_07/Lecture_07_Homework.pdf)
 
 [**08 Introduction to R 2 [Phuc] - 28/12/2025**](Lecture_08/)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
-- [PDF] &emsp; [HOMEWORK]
+- Practice: [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing](https://colab.research.google.com/drive/1dfTZ_XrnlZ4BGC_erTsmRWp7zmkiFZWp?usp=sharing))
+- [PDF](Lecture_08/Lecture_08_Packages_and_Visualization.pdf) &emsp; [HOMEWORK]
 
 [**09 Introduction to R 3 [Phuc] - 03/01/2026**](Lecture_09/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
