@@ -1,7 +1,7 @@
-sampleid,sra,condition,fastq_1,fastq_2
-s15N,SRR5311114,normal,raw_fastq/SRR5311114_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311114_chr16_10pct_R2.fastq.gz
-s15T,SRR5311115,crc,raw_fastq/SRR5311115_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311115_chr16_10pct_R2.fastq.gz
-s16N,SRR5311116,normal,raw_fastq/SRR5311116_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311116_chr16_10pct_R2.fastq.gz
-s16T,SRR5311117,crc,raw_fastq/SRR5311117_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311117_chr16_10pct_R2.fastq.gz
-s60N,SRR5311125,normal,raw_fastq/SRR5311125_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311125_chr16_10pct_R2.fastq.gz
-s60T,SRR5311124,crc,raw_fastq/SRR5311124_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311124_chr16_10pct_R2.fastq.gz
+sampleid,geo,sra,condition,fastq_1,fastq_2
+s15N,GSM2520738,SRR5311114,normal,raw_fastq/SRR5311114_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311114_chr16_10pct_R2.fastq.gz
+s15T,GSM2520739,SRR5311115,crc,raw_fastq/SRR5311115_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311115_chr16_10pct_R2.fastq.gz
+s16N,GSM2520740,SRR5311116,normal,raw_fastq/SRR5311116_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311116_chr16_10pct_R2.fastq.gz
+s16T,GSM2520741,SRR5311117,crc,raw_fastq/SRR5311117_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311117_chr16_10pct_R2.fastq.gz
+s60T,GSM2520748,SRR5311124,crc,raw_fastq/SRR5311124_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311124_chr16_10pct_R2.fastq.gz
+s60N,GSM2520749,SRR5311125,normal,raw_fastq/SRR5311125_chr16_10pct_R1.fastq.gz,raw_fastq/SRR5311125_chr16_10pct_R2.fastq.gz
