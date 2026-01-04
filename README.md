@@ -57,14 +57,14 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dfTZ_XrnlZ4BGC_erTsmRWp7zmkiFZWp?usp=sharing)
 - [PDF](Lecture_08/Lecture_08_Packages_and_Visualization.pdf) &emsp; [HOMEWORK](Lecture_08/Lecture_08_Homework.pdf)
 
-[**09 Introduction to R 3 [Phuc] - 03/01/2026**](Lecture_09/)
+[**09 Introduction to R 3 [Phuc] - 04/01/2026**](Lecture_09/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
 - [PDF] &emsp; [HOMEWORK]
 
-[**10.0 Oral Midterm Exam I Part 2 for Module I: Fundamentals of Epigenetics [Loi] - 10/01/2026**](Lecture_10/)
+[**10.0 Oral Midterm Exam I Part 2 for Module I: Fundamentals of Epigenetics [Loi] - 11/01/2026**](Lecture_10/)
 - [PDF](Lecture_10/Lecture06_midterm_exam_1_2025Dec14.pdf)
 
-[**10.1 Introduction to R 4 [Phuc] - 10/01/2026**](Lecture_10/)
+[**10.1 Introduction to R 4 [Phuc] - 11/01/2026**](Lecture_10/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
 - [PDF] &emsp; [HOMEWORK]
 
