@@ -58,8 +58,8 @@
 - [PDF](Lecture_08/Lecture_08_Packages_and_Visualization.pdf) &emsp; [HOMEWORK](Lecture_08/Lecture_08_Homework.pdf)
 
 [**09 Introduction to R 3 [Phuc] - 04/01/2026**](Lecture_09/)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
-- [PDF] &emsp; [HOMEWORK]
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/168DvVxaw1c-BdL4NV0GYp30t4h_7jzTB?usp=drive_link)
+- [PDF](Lecture_09/Lecture_09_R_Data_Manipulation.pdf) &emsp; [HOMEWORK]
 
 [**10.0 Oral Midterm Exam I Part 2 for Module I: Fundamentals of Epigenetics [Loi] - 11/01/2026**](Lecture_10/)
 - [PDF](Lecture_10/Lecture06_midterm_exam_1_2025Dec14.pdf)
