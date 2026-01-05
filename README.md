@@ -59,7 +59,7 @@
 
 [**09 Introduction to R 3 [Phuc] - 04/01/2026**](Lecture_09/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/168DvVxaw1c-BdL4NV0GYp30t4h_7jzTB?usp=drive_link)
-- [PDF](Lecture_09/Lecture_09_R_Data_Manipulation.pdf) &emsp; [HOMEWORK]
+- [PDF](Lecture_09/Lecture_09_R_Data_manipulation.pdf) &emsp; [HOMEWORK]
 
 [**10.0 Oral Midterm Exam I Part 2 for Module I: Fundamentals of Epigenetics [Loi] - 11/01/2026**](Lecture_10/)
 - [PDF](Lecture_10/Lecture06_midterm_exam_1_2025Dec14.pdf)
