@@ -62,7 +62,7 @@
 - [PDF](Lecture_09/Lecture_09_Data_manipulation.pdf) &emsp; [HOMEWORK]
 
 [**10.0 Oral Midterm Exam I Part 2 for Module I: Fundamentals of Epigenetics [Loi] - 11/01/2026**](Lecture_10/)
-- [PDF](Lecture_10/Lecture06_midterm_exam_1_2025Dec14.pdf)
+- [PDF](Lecture_10/Lecture10_midterm_exam_1_part2_2026Jan11.pdf)
 
 [**10.1 Introduction to R 4 [Phuc] - 11/01/2026**](Lecture_10/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
