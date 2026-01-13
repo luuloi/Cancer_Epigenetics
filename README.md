@@ -65,8 +65,8 @@
 - [PDF](Lecture_10/Lecture10_midterm_exam_1_part2_2026Jan11.pdf)
 
 [**10.1 Introduction to R 4 [Phuc] - 11/01/2026**](Lecture_10/)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
-- [PDF] &emsp; [HOMEWORK]
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g09D1zaegrT2kGtM3Q3qWnZbWYS8M2ry?usp=drive_link)
+- [PDF](Lecture_10/Lecture_10_Basic_Statistics.pdf) &emsp; [HOMEWORK]
 
 
 ## Module II: Epigenomics
