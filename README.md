@@ -67,6 +67,7 @@
 [**10.1 Introduction to R 4 [Phuc] - 11/01/2026**](Lecture_10/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g09D1zaegrT2kGtM3Q3qWnZbWYS8M2ry?usp=drive_link)
 - [PDF](Lecture_10/Lecture_10_Basic_Statistics.pdf) &emsp; [HOMEWORK]
+- [Data](Lecture_10/data)
 
 
 ## Module II: Epigenomics
