@@ -90,6 +90,38 @@
 - [Chromatin organisation and histone methylation: setting, removing and reading](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 - [Chromatin organisation and histone modifications: inheritance](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 
+[**15.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 18/4/2026**](Lecture_15/) \
+[**15.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi]**](Lecture_15/)
+- [Exercise 1. Explain Figure 1 in the paper](https://www.nature.com/articles/s41467-019-13753-7.pdf)
+- [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
+- [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
+- [Exercise 4. Explain Figure 4C and 4D in the paper](https://www.nature.com/articles/s41467-019-08302-1/figures/4)
+- [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1) 
+
+[**16 Hands-on: Deeptools and CSAW [Nhu] - 25/4/2026**](Lecture_16/)
+- [PPTX: Deeptools and CSAW](https://docs.google.com/presentation/d/13yffI7wHcu8j1FLx3DIAugzarE61tvI6/edit?usp=sharing&ouid=109874540725295450041&rtpof=true&sd=true)
+- Practice: deeptools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRaSW_I9um9wmPhHzutxk1p-ceBleTCc?usp=sharing), csaw [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19WNS2pn6DCV1pqVBWF5F_1cV6kqx6-0x?usp=sharing), [Datasets for deeptools/csaw](https://drive.google.com/drive/folders/1yCi3g2NEgG8PT4zGIFwEv_RitvDElw3f?usp=sharing)
+- [Dataset for homework](https://drive.google.com/drive/folders/1Rv2T07IssbvdgIbnV40ZXuiNWYCJnO5h?usp=sharing)
+Here is BAM files and gene regions for chr19. Please download these datasets and replicate the codes provided in the lecture (Datasets used for lecture are of chr22).
+###
+[**17.0 DNA-methylation and epigenetic control [Loi] - 09/5/2026**](Lecture_17/.pdf)
+- [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
+- [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
+- [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
+- [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
+- [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2) 
+
+[**17.1 DNA methylation analysis with DMRcate [Thien/Hoang/Quan] - 16/5/2026**](Lecture_17/)
+- [Introduction to DMR](https://www.benlaufer.com/DMRichR/articles/DMRichR.html)
+- [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
+- [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
+- 00.Install_packages: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1STyYmFZ9C2MXuZ-ukaRBX_dLP9iy5zTi?usp=sharing)
+- 01.GSE2IDAT_&_IDAT2Table: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyETDEQA0Q3P3nMAhoVDEhHcs05ru0lq?usp=sharing)
+- 02.DMRcate: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MKA14XC7laeRET_5HfHkxKVmbGFW3aJ3?usp=sharing)
+- 03.Plotting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BPod-aYReYvQqETqA2bTJIakoEkrAhJh?usp=sharing)
+- 04.Annotation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wAdjbi-1kV7BhXF0wIbhEXp10QXoyCHj?usp=sharing)
+- 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
+###
 ## Module III: Cancer Epigenetics
 
 ## Module IV: Cancer Epigenomic Analysis
