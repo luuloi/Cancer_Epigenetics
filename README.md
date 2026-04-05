@@ -75,6 +75,7 @@
 
 [**11.1 Epigenomics and Encode Project [Loi] - 28/02/2026**](Lecture_11/)
 - [PDF](Lecture_11/Lecture_11_Principles_of_Epigenetics_2026Feb21.pdf)
+- [Encode Project](https://www.encodeproject.org/)
 
 [**12.0 Chromatin based epigenetic control I  - 14+07/3/2026**](Lecture_12/)
 - [Chromatin organisation and histone acetylation: setting, removing, reading and inheritance](Lecture_12/Lecture_12_Chromatin_I_2026March07.pdf)
