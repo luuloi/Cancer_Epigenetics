@@ -97,6 +97,7 @@
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
 - [Exercise 4. Explain Figure 4C and 4D in the paper](https://www.nature.com/articles/s41467-019-08302-1/figures/4)
 - [Exercise 5. Explain Figure 1F and 1H in the paper](https://www.nature.com/articles/s41467-019-14098-x/figures/1) 
+
 [**15.2 3C, 4C, 5C and Hi-C [Loi]**](Lecture_15/)\
 
 [**16 Hands-on: Deeptools and CSAW [Nhu] - 25/4/2026**](Lecture_16/)
