@@ -90,8 +90,8 @@
 - [Chromatin organisation and histone methylation: setting, removing and reading](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 - [Chromatin organisation and histone modifications: inheritance](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 
-[**15.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 18/4/2026**](Lecture_15/) \
-[**15.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi]**](Lecture_15/)
+[**15.0 ChIP-seq for Histone modifications and Transcription Factors Profiling [Loi] - 18/4/2026**](Lecture_15/Lecture15_2026April18_01.pdf) \
+[**15.1 ChIP-seq for DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi]**](Lecture_15/Lecture15_2026April18_01.pdf)
 - [Exercise 1. Explain Figure 1 in the paper](https://www.nature.com/articles/s41467-019-13753-7.pdf)
 - [Exercise 2. Explain Figure 7A in the paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01171-2)
 - [Exercise 3. Explain Figure 5E in the paper](https://www.sciencedirect.com/science/article/pii/S1535610819300388)
