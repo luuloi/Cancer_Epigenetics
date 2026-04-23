@@ -86,7 +86,7 @@
 [**13.1 Best Practice for RNA-seq analysis [Loi] - 28/3/2026**](Lecture_13/)
 - [PDF](Lecture_13/Lecture_13_Best_Practice_for_Bulk_RNAseq_2026March28.pdf)
 
-[**14.0 Chromatin based epigenetic control II [Loi] - 04+11/4/2026**](Lecture_14/)
+[**14.0 Chromatin based epigenetic control II [Loi] - 04+11/4/2026**](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 - [Chromatin organisation and histone methylation: setting, removing and reading](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 - [Chromatin organisation and histone modifications: inheritance](Lecture_14/Lecture_14_Chromatin_II_2026April04.pdf)
 
