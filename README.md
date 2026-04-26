@@ -100,11 +100,10 @@
 
 [**15.2 3C, 4C, 5C and Hi-C for Chromatin Conformation [Loi]**](Lecture_15/Lecture15_2026April18_2.pdf)
 
-[**16 Hands-on: Deeptools and CSAW [Nhu] - 25/4/2026**](Lecture_16/)
-- [PPTX: Deeptools and CSAW](https://docs.google.com/presentation/d/13yffI7wHcu8j1FLx3DIAugzarE61tvI6/edit?usp=sharing&ouid=109874540725295450041&rtpof=true&sd=true)
-- Practice: deeptools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRaSW_I9um9wmPhHzutxk1p-ceBleTCc?usp=sharing), csaw [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19WNS2pn6DCV1pqVBWF5F_1cV6kqx6-0x?usp=sharing), [Datasets for deeptools/csaw](https://drive.google.com/drive/folders/1yCi3g2NEgG8PT4zGIFwEv_RitvDElw3f?usp=sharing)
-- [Dataset for homework](https://drive.google.com/drive/folders/1Rv2T07IssbvdgIbnV40ZXuiNWYCJnO5h?usp=sharing)
-Here is BAM files and gene regions for chr19. Please download these datasets and replicate the codes provided in the lecture (Datasets used for lecture are of chr22).
+[**16 Hands-on: ATACSeq Analysis [Nhu] - 25/4/2026**](Lecture_16/)
+- [PDF](https://github.com/luuloi/Cancer_Epigenetics/blob/main/Lecture_16/ATAC-seq%20(Assay%20for%20Transposase-Accessible%20Chromatin%20using%20sequencing).pdf)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17OkM7skvwqHQUWW6NFZKqktr6qKFzVtx#scrollTo=APWQ9nlu9s1C)
+
 ###
 [**17.0 DNA-methylation and epigenetic control [Loi] - 09/5/2026**](Lecture_17/.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
