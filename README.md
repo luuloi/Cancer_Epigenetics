@@ -105,14 +105,15 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17OkM7skvwqHQUWW6NFZKqktr6qKFzVtx#scrollTo=APWQ9nlu9s1C)
 
 ###
-[**17.0 DNA-methylation and epigenetic control [Loi] - 09/5/2026**](Lecture_17/.pdf)
+[**17.0 DNA-methylation and Whole Genome Bisulphite Sequencing (WGBS) [Loi] - 09/5/2026**](Lecture_17/Lecture_17_2026May09_Intro.pdf)
+[**17.1 DNA-methylation and epigenetic control [Loi]**](Lecture_17/Lecture_17_DNA_methylation_2026May09.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
 - [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
 - [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
 - [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
 - [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2) 
 
-[**17.1 DNA methylation analysis with DMRcate [Thien/Hoang/Quan] - 16/5/2026**](Lecture_17/)
+[**17.2 DNA methylation analysis with DMRcate [Thien/Hoang/Quan] - 16/5/2026**](Lecture_17/)
 - [Introduction to DMR](https://www.benlaufer.com/DMRichR/articles/DMRichR.html)
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
 - [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
