@@ -105,7 +105,7 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17OkM7skvwqHQUWW6NFZKqktr6qKFzVtx#scrollTo=APWQ9nlu9s1C)
 
 ###
-[**17.0 DNA-methylation and Whole Genome Bisulphite Sequencing (WGBS) [Loi] - 09/5/2026**](Lecture_17/Lecture_17_2026May09_Intro.pdf)
+[**17.0 DNA-methylation and Whole Genome Bisulphite Sequencing (WGBS) [Loi] - 09/5/2026**](Lecture_17/Lecture_17_2026May09_Intro.pdf)\
 [**17.1 DNA-methylation and epigenetic control [Loi]**](Lecture_17/Lecture_17_DNA_methylation_2026May09.pdf)
 - [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
 - [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
